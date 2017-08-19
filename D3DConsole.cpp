@@ -30,10 +30,6 @@ ostream& operator<<(ostream& os, FXMVECTOR v) {
 //	}
 //}
 
-int Run() {
-	MSG msg = { 0 };
-
-}
 
 int main()
 {
