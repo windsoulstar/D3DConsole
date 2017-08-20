@@ -2,6 +2,7 @@
 #include "GameTimer.h"
 #include <d3d11.h>
 #include <string>
+#include <windowsx.h>
 
 class D3DApp {
 public:
